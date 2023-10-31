@@ -1,5 +1,6 @@
 <?php
 
+//variabel connect
 $conn = mysqli_connect("127.0.0.1", "root", "", "wad_project3");
 
 //insert
